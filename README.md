@@ -70,8 +70,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsiammk&show_icons=true&theme=radical" height="150">
-    <img src="https://img.shields.io/badge/Daily%20Streak-Check%20GitHub%20Profile-green?style=for-the-badge" height="150">
-
 </p>
 
 ---
