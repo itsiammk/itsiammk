@@ -70,7 +70,8 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsiammk&show_icons=true&theme=radical" height="150">
-![GitHub Streak](https://img.shields.io/badge/Daily%20Streak-Check%20GitHub%20Profile-green?style=for-the-badge)
+    <img src="[https://github-readme-streak-stats.vercel.app/?user=iammk105209&theme=radical](https://img.shields.io/badge/Daily%20Streak-Check%20GitHub%20Profile-green?style=for-the-badge)" alt="GitHub Streak Stats" height="150">
+
 </p>
 
 ---
